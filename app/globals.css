@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  a,
+  button {
+    transition-duration: 300ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+  }
+
+  h1,
+  h2 {
+    @apply text-gray-800 dark:text-white;
+  }
+}
+
+@layer components {
+  .card {
+    @apply flex flex-col gap-3 border border-gray-200 dark:border-gray-700 rounded-lg p-4 bg-white dark:bg-gray-800;
+  }
+}
+
+.bg-gradient {
+  background-image: url('../public/images/blur.svg');
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+  .bg-gradient {
+    background-image: none;
+  }
+}
+
+.full-article {
+  @apply text-gray-900 dark:text-gray-200;
+}
+
+.full-article h1 {
+  @apply text-3xl font-extrabold mb-4;
+}
+
+.full-article a {
+  @apply text-link dark:text-link-dark hover:underline;
+}
+
+.full-article p {
+  @apply my-5;
+}
+
+.full-article ul {
+  margin-left: 3rem;
+  list-style-type: disc;
+}
+
+.full-article img {
+  @apply my-5;
+}
+
+.full-article pre {
+  @apply my-5 bg-gray-100 dark:bg-gray-900 p-3 rounded-md text-sm overflow-auto font-mono;
+}
+
+.full-article pre code {
+  @apply text-sm p-0 rounded-none;
+}
+
+.full-article code {
+  @apply bg-gray-100 dark:bg-gray-900 p-2 rounded-md text-sm font-mono;
+}
