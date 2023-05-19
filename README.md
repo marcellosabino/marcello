@@ -1,7 +1,7 @@
 # Welcome to My Personal Website Codebase
 This is the official website code behind the public-facing website https://marcello.codes.  This is the second interation of my website so, I hope you like it.
 
-![Screenshot 2023-05-19 at 2 10 05 PM](https://github.com/marcellosabino/marcello/assets/104793781/650b88ee-d044-4ba7-a5dc-07a7fb2c5099)
+![Screenshot 2023-05-19 at 2 12 43 PM](https://github.com/marcellosabino/marcello/assets/104793781/15c5a0d0-3292-49d8-bb3c-11dd39665166)
 
 ## Technologies
 * NextJS
