@@ -14,7 +14,7 @@ export default async function Home() {
     {
       id: 3,
       name: 'The Hartford',
-      jobTitle: 'Sr. Software Engineer',
+      jobTitle: 'Staff Software Engineer',
       imageFileName: 'the-hartford.svg',
       startYear: '2020',
       endYear: 'Present',
