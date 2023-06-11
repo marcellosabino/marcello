@@ -4,9 +4,8 @@ I created this website from scratch. With some big updates to the "frontend" wor
 Angular v16 and NextJS v13, I figured now was a good time to experiment with both
 frameworks since at work I only get to use Angular v15.
 
-I started this redesign because I am also looking to change jobs. After 6 years in the insurance
-industry, I think I want to start branching out. At the very least, get involved in some newer
-trends (I.E. not Java).
+I started this redesign because my previous website was written a while ago when NextJS was relatively new.
+NextJS@13 was released recently and I wanted to play around with the new version.
 
 I decided to use NextJS for this website due to it's static-site generation at
 build time. I also wanted to change my usual framework (Angular) and play around with NextJS.
