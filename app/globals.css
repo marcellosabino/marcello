@@ -55,6 +55,11 @@
   list-style-type: disc;
 }
 
+.full-article ol {
+  margin-left: 3rem;
+  list-style-type: decimal;
+}
+
 .full-article img {
   @apply my-5;
 }
@@ -68,5 +73,5 @@
 }
 
 .full-article code {
-  @apply bg-gray-100 dark:bg-gray-900 p-2 rounded-md text-sm font-mono;
+  @apply bg-gray-100 dark:bg-gray-900 p-2 rounded-md text-sm font-mono leading-9;
 }
