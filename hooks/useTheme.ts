@@ -12,7 +12,7 @@ export default function useTheme() {
   const [theme, setTheme] = useState(null) as [Theme | null, any];
 
   useEffect(() => {
-    setTheme(localStorage.theme);
+    setTheme(localStorage.theme || Theme.Light);
   }, []);
 
   useEffect(() => {

@@ -1,10 +1,10 @@
 # NgxRetro
 
-Enabling teams to run their retrospectives for free and on-prem. This application uses the Enterprise GitHub API as the backend; so you can run this application entirely on GitHub Pages &mdash; behind your firewall.
+Enabling teams to run their retrospectives for free and on-prem. This application uses the Enterprise GitHub API as the backend; so you can run this application entirely on GitHub Pages &mdash; behind your firewall. 🔥
 
 <img src="/images/portfolio/ngx-retro/image-1.png" alt="hero-image" />
 
-While this allows you to host your retroboard "for free" (minus the enterprise license that you're already spending on), it does come with some disadvantages.
+While this allows you to host your retro board "for free" (minus the enterprise license that you're already spending on), it does come with some disadvantages.
 
 1. You don't know who's making the request (it is completely anonymous).
 2. Access can be "faked" easily, e.g. people can spoof themselves into owning a board
