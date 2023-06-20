@@ -1,6 +1,8 @@
-# NgxRetro
+# RetroBoard.org
 
 Enabling teams to run their retrospectives for free and on-prem. This application uses the Enterprise GitHub API as the backend; so you can run this application entirely on GitHub Pages &mdash; behind your firewall. 🔥
+
+Try it for yourself at https://retroboard.org
 
 <img src="/images/portfolio/ngx-retro/image-1.png" alt="hero-image" />
 
