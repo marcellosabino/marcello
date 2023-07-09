@@ -42,6 +42,10 @@
   @apply text-3xl font-extrabold mb-4;
 }
 
+.full-article h2 {
+  @apply text-2xl font-extrabold my-3;
+}
+
 .full-article a {
   @apply text-link dark:text-link-dark hover:underline;
 }
