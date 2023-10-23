@@ -12,12 +12,20 @@ export default async function Home() {
 
   const companies: CompanyExperience[] = [
     {
+      id: 4,
+      name: 'Chubb',
+      jobTitle: 'Sr. Full-Stack Software Engineer',
+      imageFileName: 'chubb.jpeg',
+      startYear: '2023',
+      endYear: 'Present',
+    },
+    {
       id: 3,
       name: 'The Hartford',
       jobTitle: 'Staff Software Engineer',
       imageFileName: 'the-hartford.svg',
       startYear: '2020',
-      endYear: 'Present',
+      endYear: '2023',
     },
     {
       id: 2,
