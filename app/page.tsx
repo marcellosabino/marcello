@@ -14,8 +14,8 @@ export default async function Home() {
     {
       id: 4,
       name: 'Chubb',
-      jobTitle: 'Sr. Full-Stack Software Engineer',
-      imageFileName: 'chubb.jpeg',
+      jobTitle: 'Sr. Software Engineer',
+      imageFileName: 'chubb.png',
       startYear: '2023',
       endYear: 'Present',
     },
