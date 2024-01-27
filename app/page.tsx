@@ -79,7 +79,7 @@ export default async function Home() {
           <li>
             <Link
               className="hover:text-gray-600 dark:hover:text-gray-300"
-              href="https://www.linkedin.com/in/marcello-sabino/"
+              href="https://www.linkedin.com/in/bytebury/"
             >
               <i className="bi bi-linkedin" aria-label="linkedin profile" />
             </Link>
@@ -87,7 +87,7 @@ export default async function Home() {
           <li>
             <Link
               className="hover:text-gray-600 dark:hover:text-gray-300"
-              href="https://twitter.com/marcellocodes"
+              href="https://x.com/bytebury"
             >
               <i className="bi bi-twitter" aria-label="twitter profile" />
             </Link>
